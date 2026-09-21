@@ -16,6 +16,7 @@ www.himeshhome.casa | 01 May 2030
 
 # Tailscale / Secure VPN
 tapan.tail207074.ts.net | 30 May 2030
+wowsovereign.world | 30 May 2030
 
 # Development & Local Testing
 localhost | 01 June 2030
